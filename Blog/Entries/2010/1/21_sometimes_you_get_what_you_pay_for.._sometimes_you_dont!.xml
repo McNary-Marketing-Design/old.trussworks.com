@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:20 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>sometimes you get what you pay for.. sometimes you don't!</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Hi Everyone,&#xD;&#xD;We get alot of calls asking us what the difference is between our EZ6 and a certain competitor's offering. We have also noticed some common &#xA0;misconceptions and I wanted to take a moment to play mythbuster..&#xD;&#xD;Myth: &#xA0;A competitor's truss is less expensive than our EZ6 truss.&#xD;Fact: That is simply not true. As a matter of fact, on many identical kits, we beat their prices by as much as 20%. In a few cases, they are less, but we will price match.&#xD;&#xD;Myth: A competitor's truss is also tool-less.&#xD;Fact: If that were true, why would they sell the tool to loosen their twist lock? Fact is, those plastic connectors bind up under the tension making it too difficult to turn them by hand. EZ6 is the only true tool-less truss in this category.&#xD;&#xD;Myth: If the manufacturer drew it, it'll work.&#xD;Fact: Some truss does not have the structural integrity to successfully produce every kit some manufacturers design and promote. I have attached a photo depicting what happens when a truss system is used beyond it's capability. Note the lean.. the people in the foreground are standing straight. This kit looks great on paper and it would look great in EZ6 but if you want your verticals vertical and your graphics flat, you may want to steer clear of a product not designed for these stresses..&#xD;&#xD;In addition to the myths debunked above, EZ6 also has a lower piece count, a better graphic mounting system, more finishes, more accessories and component options and the ability to customize. If you are selling anything less than EZ6 in this category, please do your customers a favor and give us a call next time.&#xD;&#xD;Thanks and we look forward to hearing from you.&#xD;&#xD;Roy&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, January 21, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="21_sometimes_you_get_what_you_pay_for.._sometimes_you_dont%21_files/shapeimage_2.png" left="0px" top="0px" width="624px" height="468px"/>
+</content>

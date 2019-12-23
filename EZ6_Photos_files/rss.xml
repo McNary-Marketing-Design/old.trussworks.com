@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>EZ6 Photos</title>
+    <link>http://www.trussworks.com/trussworks/EZ6_Photos.html</link>
+    <description>EZ6 Photos</description>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#0</link>
+      <guid isPermaLink="false">91c694ec-8490-419d-b7c4-9aa1f0aa5ef7</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5635_3/IMG_5635_3.jpg" length="185121" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5635_3/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5635_3/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#1</link>
+      <guid isPermaLink="false">aba44816-0922-4deb-9d10-3729b452a7cb</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/1/1.jpg" length="460031" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/1/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/1/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#2</link>
+      <guid isPermaLink="false">781840e4-2357-4b78-a8e0-9d9a720101e3</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_9130/IMG_9130.jpg" length="1040761" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_9130/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_9130/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#3</link>
+      <guid isPermaLink="false">a1d60a75-b1ea-46be-8ea6-ccc22db5a885</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/TS2-ShelfRig/TS2-ShelfRig.jpg" length="428330" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/TS2-ShelfRig/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/TS2-ShelfRig/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#4</link>
+      <guid isPermaLink="false">995d8794-f5db-4efd-b1b0-204a8a9a8411</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/FrontWorkStation/FrontWorkStation.jpg" length="1074584" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/FrontWorkStation/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/FrontWorkStation/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#5</link>
+      <guid isPermaLink="false">16757fc7-eff7-47d5-a2f0-7988ffa1acd3</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/MOD09inBooth/MOD09inBooth.jpg" length="4859617" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/MOD09inBooth/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/MOD09inBooth/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#6</link>
+      <guid isPermaLink="false">621fcf54-1974-4766-99ac-27990d1cd58d</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/TS2-Booth2/TS2-Booth2.jpg" length="459151" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/TS2-Booth2/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/TS2-Booth2/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#7</link>
+      <guid isPermaLink="false">bc66eb36-cdf7-44b5-bc6a-1f1e4f52c786</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P1010008/P1010008.jpg" length="737624" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P1010008/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P1010008/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#8</link>
+      <guid isPermaLink="false">7fd2b9bd-6c2f-45a2-851d-5607e135a198</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P9260048/P9260048.jpg" length="1298339" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P9260048/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P9260048/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#9</link>
+      <guid isPermaLink="false">3f76f86f-cb8d-4909-88ed-bf4534945150</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P1010016/P1010016.jpg" length="661806" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P1010016/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P1010016/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#10</link>
+      <guid isPermaLink="false">561650f9-67cf-44d3-bfae-e957ba2dd43e</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_1851/IMG_1851.jpg" length="84549" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_1851/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_1851/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#11</link>
+      <guid isPermaLink="false">48871346-8d6c-4e26-b9fd-fcc518abcbed</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_1852/IMG_1852.jpg" length="118598" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_1852/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_1852/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#12</link>
+      <guid isPermaLink="false">f5acb62e-fcab-495c-b431-3e481fea5afa</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6558/IMG_6558.jpg" length="365337" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6558/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6558/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#13</link>
+      <guid isPermaLink="false">c4004af4-4541-4d67-9bcc-f00025c7c96c</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6569/IMG_6569.jpg" length="307514" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6569/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6569/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#14</link>
+      <guid isPermaLink="false">b0358cde-ca6f-440f-a548-74226c3800a8</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_1815/IMG_1815.jpg" length="95696" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_1815/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_1815/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#15</link>
+      <guid isPermaLink="false">2c2624b9-ac4b-45ea-93c7-cf2f53a97ab8</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_1816/IMG_1816.jpg" length="121985" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_1816/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_1816/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#16</link>
+      <guid isPermaLink="false">ebbf1bfc-fecb-4c10-92b7-a6fe346a6cf0</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6557/IMG_6557.jpg" length="392707" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6557/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6557/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#17</link>
+      <guid isPermaLink="false">989a580b-b60b-4b14-ac98-d15e11cbe06f</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6562/IMG_6562.jpg" length="358118" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6562/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6562/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#18</link>
+      <guid isPermaLink="false">e7dbbc58-a5a1-4912-901d-bc4a51112b71</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6561/IMG_6561.jpg" length="401630" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6561/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6561/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#19</link>
+      <guid isPermaLink="false">024e9be8-2f8d-4a17-82fa-baa98a937b7b</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6551/IMG_6551.jpg" length="457485" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6551/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6551/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#20</link>
+      <guid isPermaLink="false">bdb5d8a1-47fa-4eaf-be34-83b5c3334d85</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_7564/IMG_7564.jpg" length="413873" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_7564/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_7564/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#21</link>
+      <guid isPermaLink="false">3eafcf6e-7b28-4cec-b3fb-c7bb4736294a</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_8985/IMG_8985.jpg" length="1374707" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_8985/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_8985/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#22</link>
+      <guid isPermaLink="false">71ef9632-696b-4883-9db1-6c5be6b7d1c0</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5641/IMG_5641.jpg" length="367175" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5641/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5641/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#23</link>
+      <guid isPermaLink="false">a394dc4c-cdc3-46fe-a028-852fb117b281</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/Business/Business.jpg" length="106241" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/Business/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/Business/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#24</link>
+      <guid isPermaLink="false">dbe2535c-5095-4eee-b374-660922b0af02</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P1010003/P1010003.jpg" length="453007" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P1010003/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P1010003/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#25</link>
+      <guid isPermaLink="false">1bec091a-ad60-49c5-9567-c8eec77432b9</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_9939/IMG_9939.jpg" length="1450769" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_9939/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_9939/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#26</link>
+      <guid isPermaLink="false">4f2a92ca-8d8d-4fa0-b330-026e6dd85e75</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6531/IMG_6531.jpg" length="391525" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6531/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6531/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#27</link>
+      <guid isPermaLink="false">d5f2094b-6db9-4b63-b40a-61a0c7d0deea</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6530/IMG_6530.jpg" length="354065" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6530/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6530/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#28</link>
+      <guid isPermaLink="false">297fbb94-77ff-4504-b533-feae500ea890</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0099/IMG_0099.jpg" length="610892" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0099/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0099/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#29</link>
+      <guid isPermaLink="false">5a5b80a7-db37-4e9a-85a7-05c73401b5ff</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_1908/IMG_1908.jpg" length="185548" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_1908/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_1908/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#30</link>
+      <guid isPermaLink="false">d96b9ee8-fec3-4d0e-bdee-9057f8c41ba6</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_1188/IMG_1188.jpg" length="405296" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_1188/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_1188/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#31</link>
+      <guid isPermaLink="false">2174f518-91a3-4adf-8402-6822922ca1ff</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5693/IMG_5693.jpg" length="452109" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5693/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5693/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#32</link>
+      <guid isPermaLink="false">e133eb68-632b-4560-9bd2-b1b9697f09d0</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0016/IMG_0016.jpg" length="1786137" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0016/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0016/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#33</link>
+      <guid isPermaLink="false">cf438a9e-3538-4d29-a851-8ad7c08b67a7</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6527/IMG_6527.jpg" length="402371" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6527/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6527/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#34</link>
+      <guid isPermaLink="false">b79d1020-cb13-4427-b6ea-5451b37ef5d8</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5620_2/IMG_5620_2.jpg" length="215060" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5620_2/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5620_2/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#35</link>
+      <guid isPermaLink="false">a1c1a98b-bd7f-44b7-9f91-e19387171e8c</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5014_2/IMG_5014_2.jpg" length="317359" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5014_2/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5014_2/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#36</link>
+      <guid isPermaLink="false">76718850-5919-4e75-a1df-933159e8acb1</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_7818/IMG_7818.jpg" length="399325" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_7818/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_7818/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#37</link>
+      <guid isPermaLink="false">d3cf962e-7526-44f4-925a-daa7c83c5cad</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_9632/IMG_9632.jpg" length="1187328" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_9632/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_9632/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#38</link>
+      <guid isPermaLink="false">e4ffc6e4-14cb-48e3-a59d-44fbbd0153bc</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6127_1/IMG_6127_1.jpg" length="453591" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6127_1/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6127_1/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#39</link>
+      <guid isPermaLink="false">1d84daea-abad-45bd-9c36-157ed2b3ab70</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_8058/IMG_8058.jpg" length="433100" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_8058/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_8058/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#40</link>
+      <guid isPermaLink="false">2aae994f-a390-4b8f-b098-778f93d78224</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_8062/IMG_8062.jpg" length="629452" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_8062/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_8062/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#41</link>
+      <guid isPermaLink="false">635e0764-03f8-4ee3-aeab-e28adfea0130</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0588/IMG_0588.jpg" length="68119" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0588/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0588/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#42</link>
+      <guid isPermaLink="false">0e458fba-d970-428b-8221-480327f719ce</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_8990/IMG_8990.jpg" length="1398132" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_8990/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_8990/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#43</link>
+      <guid isPermaLink="false">eb6ac6a3-f56f-4ace-8ae8-1232690074b0</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_8972/IMG_8972.jpg" length="1332395" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_8972/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_8972/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#44</link>
+      <guid isPermaLink="false">eb52bf51-9348-47c2-85a2-adae7dd950ba</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P7283013/P7283013.jpg" length="564403" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P7283013/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P7283013/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#45</link>
+      <guid isPermaLink="false">d6fd037d-b54f-44df-ae9a-a6a7723cea35</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/DSC_0097/DSC_0097.jpg" length="275248" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/DSC_0097/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/DSC_0097/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#46</link>
+      <guid isPermaLink="false">7cc2a4bc-9aff-43eb-9a11-198ea33495a4</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/DSC_0104/DSC_0104.jpg" length="311966" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/DSC_0104/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/DSC_0104/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#47</link>
+      <guid isPermaLink="false">f35b0780-9f04-43eb-ba3b-e82358274981</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6725/IMG_6725.jpg" length="579749" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6725/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6725/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#48</link>
+      <guid isPermaLink="false">61240dda-f55f-4444-b90c-bdebf2ceee82</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/HPNX0061fixed/HPNX0061fixed.jpg" length="398846" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/HPNX0061fixed/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/HPNX0061fixed/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#49</link>
+      <guid isPermaLink="false">16141d14-05aa-4737-aa28-8af0a25d4490</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/HPNX0069fixed/HPNX0069fixed.jpg" length="436343" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/HPNX0069fixed/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/HPNX0069fixed/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#50</link>
+      <guid isPermaLink="false">5ca30911-3925-4cad-a169-f7eb95f586fa</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0083/IMG_0083.jpg" length="317893" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0083/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0083/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#51</link>
+      <guid isPermaLink="false">81030ca3-ec81-49ae-9302-57495d64b1f2</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0085/IMG_0085.jpg" length="272989" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0085/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0085/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#52</link>
+      <guid isPermaLink="false">35da3c09-2002-468c-8501-2f4d998403b6</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0086/IMG_0086.jpg" length="317270" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0086/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0086/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#53</link>
+      <guid isPermaLink="false">5a0a8742-7fa9-4ecd-a526-8a96dbdab2ae</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6320/IMG_6320.jpg" length="211481" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6320/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_6320/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#54</link>
+      <guid isPermaLink="false">db887631-6cf5-4f9f-b6ad-4d42edb08f55</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/5/5.jpg" length="477253" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/5/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/5/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#55</link>
+      <guid isPermaLink="false">df1ffde8-d179-4c8c-a417-436ce528a968</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0589/IMG_0589.jpg" length="85099" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0589/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0589/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#56</link>
+      <guid isPermaLink="false">716cd96d-abbd-46b8-ab6c-3e38e36faf76</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/6/6.jpg" length="524287" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/6/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/6/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#57</link>
+      <guid isPermaLink="false">424982fe-134d-4ccd-a57e-a6b908f73b27</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_2985/IMG_2985.jpg" length="233841" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_2985/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_2985/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#58</link>
+      <guid isPermaLink="false">5feba522-184e-4b3d-b5fa-aed5fb8d9e87</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5025_2/IMG_5025_2.jpg" length="341986" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5025_2/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5025_2/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#59</link>
+      <guid isPermaLink="false">956f8b8f-a5eb-4683-9def-c68e88fb3fff</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5055/IMG_5055.jpg" length="183437" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5055/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5055/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#60</link>
+      <guid isPermaLink="false">ee85a14c-c25b-443e-8030-08e286f6cfed</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P9180003/P9180003.jpg" length="586873" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P9180003/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P9180003/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#61</link>
+      <guid isPermaLink="false">342182d5-e1e4-4ea9-85bb-df87b57c3d7b</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5062/IMG_5062.jpg" length="182672" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5062/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_5062/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#62</link>
+      <guid isPermaLink="false">53d4d25a-da9a-4215-a89e-a155145b4318</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P1010005/P1010005.jpg" length="592564" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P1010005/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/P1010005/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#63</link>
+      <guid isPermaLink="false">4fbad8af-0554-4ff0-a932-86756e44ff91</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0626/IMG_0626.jpg" length="84087" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0626/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/IMG_0626/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#64</link>
+      <guid isPermaLink="false">77e9bc7b-9b0c-487c-9855-023b44116493</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/Alstyle3/Alstyle3.jpg" length="522281" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/Alstyle3/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/Alstyle3/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#65</link>
+      <guid isPermaLink="false">6de4fe69-3de0-4b40-92b4-3277c522f2fe</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/Alstyle2/Alstyle2.jpg" length="517353" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/Alstyle2/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/Alstyle2/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#66</link>
+      <guid isPermaLink="false">86c3666b-342d-445f-a071-4ba769ad2606</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/Alstyle1/Alstyle1.jpg" length="548465" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/Alstyle1/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/Alstyle1/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.trussworks.com/trussworks/EZ6_Photos.html#67</link>
+      <guid isPermaLink="false">706d6c45-275f-4c67-8ade-329efb1e6bce</guid>
+      <enclosure url="http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/Booth09-3/Booth09-3.jpg" length="5635607" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/Booth09-3/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.trussworks.com/trussworks/EZ6_Photos_files/Media/Booth09-3/micro.jpg</iweb:micro>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:15 -0800"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>... and the first 612 kit rolls out of design.. presenting the 20 x 20 Palisades</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I know it's hard to be excited and optimistic right now with the Dow down to 8k and unemployment at all time highs but our customers are still going to do tradeshows and they will need our help now more than ever. With that in mind, we are hard at work using the new EZ612 truss in efficient effective ways.&#xD;&#xD;This curvacious beauty retails for around $26,500 including graphics counters, workstations, A/V mounts, cases and lights!&#xD;The base price without the A/V mounts, counters and workstations and with graphics at $22 / sq. ft. is just under $20,000. How about that for a stimulus package!&#xD;&#xD;Hope you all like this and what's coming. Look for even cheaper straight truss versions as early as next week!&#xD;&#xD;Roy&#xD;&#xD;Trussworks</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, November 21, 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="21_..._and_the_first_612_kit_rolls_out_of_design.._presenting_the_20_x_20_Palisades_files/shapeimage_2.png" left="0px" top="0px" width="416px" height="312px"/>
+</content>

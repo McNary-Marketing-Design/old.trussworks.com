@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:12 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>New tool for your toolbox ~ EZ6 solid color panel options!</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Hi everyone,&#xA0;&#xD;&#xD;Well, the tradeshow season is winding down for the winter and it's time for us to start working on new marketing materials and design concepts to make the best of 2008. We have done a ton of cool stuff with EZ6 and wanted to expand on an accessory many of you are not too familiar with yet.&#xA0;&#xD;&#xD;As you all know, with EZ6,&#xA0; you create an easy to assemble structure with spaces that need filling with either slatwall, lexan graphics or fabric graphics. In the fall, our co-development with Optima of the sintra strip banners with the new banner clip, the fabric graphics have gotten more and more popular on the EZ6.&#xA0;&#xD;&#xD;What most of you don't know is we also have a wide range of inexpensive solid color panels that can be used in place of a graphic.&#xA0; In areas that have no impact such as the back side of a tower, small returns or spaces behind shelves. These panels cost about 1/3 as much as a typical graphic panel. Attached is our color card of the available fabrics, a rendering showing a colorful and appropriate use and a photo showing fabric graphics, slatwall and solid black fabric panels all on a 10 x 20 rental display.&#xA0;&#xD;&#xD;More cool new stuff to come before January!&#xD;&#xD;Enjoy!&#xD;&#xD;Roy Muller&#xD;Trussworks</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, November 6, 2007&lt;/b&gt;</richText>
+  </textBox>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:22 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Trussworks partners with Stylmark on Interlock Products&#xD;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Trussworks &amp; Stylmark are excited to announce a partnership that allows Trussworks to manufacture and market STOWaway and SNAPtruss truss systems to the exhibit industry. &#xD;We feel that these 2 product lines are a great fit with our current offerings. STOWaway may look similar to EZ12 but the capabilities are much different. We are anxious to create kit offerings which will take advantage of STOWaway&#x2019;s strength. &#xD;SNAPtruss has a loyal stocking distributor base which we are eager to serve. &#xD;The lead times on these products in powder coated finish will soon match the other Trussworks products at 3-5 days!&#xD;Click either link above to learn more about each of these fine products!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, September 6, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="6_Trussworks_partners_with_Stylmark_on_Interlock_Products_files/shapeimage_2.png" left="0px" top="0px" width="298px" height="248px"/>
+</content>

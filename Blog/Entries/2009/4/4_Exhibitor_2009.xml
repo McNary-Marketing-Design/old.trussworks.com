@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:09 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Exhibitor 2009    </richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Exhibitor 2009 - Despite our country&#x2019;s current economic problems, I have to say that all the exhibitors looked great! We were pleased at the response to our new product, Hyperlite as well as the reaction to people finally seeing the EZ612 beam in use. We used the beam extensively and it looked better than even I expected creating an entirely new look! And the Davis workstation was just beautiful. But you can judge for yourself in the photos above. &#xD;&#xD;&lt;a href="http://www.helios-av.com/"&gt;Helios AV&lt;/a&gt; created a total immersion 3D setup with Hyperlite kits  on our workstation which drew quite the crowd. They also made a nice flash presentation and helped us with a  short throw projection setup for our website. Turnout seemed a little lighter than in recent years but most of the dealers I spoke with seemed to be upbeat and optimistic. I spend almost all of my time with distributors and am not really sure how the end user turnout was.&#xD;&#xD;Check out the video below to see the demos we gave in the booth! </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, April 4, 2009&lt;/b&gt;</richText>
+  </textBox>
+</content>

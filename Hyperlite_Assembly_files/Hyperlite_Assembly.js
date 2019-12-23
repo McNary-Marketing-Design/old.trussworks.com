@@ -1,0 +1,18 @@
+// Created by iWeb 3.0.3 local-build-20120704
+
+function writeMovie1()
+{detectBrowser();if(windowsInternetExplorer)
+{document.write('<object id="id3" classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="348" height="213" style="height: 197px; left: 13px; position: absolute; top: -56px; width: 348px; z-index: 1; "><param name="src" value="Media/logo-mobile-3.m4v" /><param name="controller" value="false" /><param name="autoplay" value="true" /><param name="scale" value="tofit" /><param name="volume" value="100" /><param name="loop" value="true" /></object>');}
+else if(isiPhone)
+{document.write('<object id="id3" type="video/quicktime" width="348" height="213" style="height: 197px; left: 13px; position: absolute; top: -56px; width: 348px; z-index: 1; "><param name="src" value="Hyperlite_Assembly_files/logo-mobile.jpg"/><param name="target" value="myself"/><param name="href" value="../Media/logo-mobile-3.m4v"/><param name="controller" value="false"/><param name="scale" value="tofit"/></object>');}
+else
+{document.write('<object id="id3" type="video/quicktime" width="348" height="213" data="Media/logo-mobile-3.m4v" style="height: 197px; left: 13px; position: absolute; top: -56px; width: 348px; z-index: 1; "><param name="src" value="Media/logo-mobile-3.m4v"/><param name="controller" value="false"/><param name="autoplay" value="true"/><param name="scale" value="tofit"/><param name="volume" value="100"/><param name="loop" value="true"/></object>');}}
+setTransparentGifURL('Media/transparent.gif');function applyEffects()
+{var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_0:new IWStrokeParts([{rect:new IWRect(-2,2,4,108),url:'Hyperlite_Assembly_files/stroke.png'},{rect:new IWRect(-2,-2,4,4),url:'Hyperlite_Assembly_files/stroke_1.png'},{rect:new IWRect(2,-2,141,4),url:'Hyperlite_Assembly_files/stroke_2.png'},{rect:new IWRect(143,-2,4,4),url:'Hyperlite_Assembly_files/stroke_3.png'},{rect:new IWRect(143,2,4,108),url:'Hyperlite_Assembly_files/stroke_4.png'},{rect:new IWRect(143,110,4,5),url:'Hyperlite_Assembly_files/stroke_5.png'},{rect:new IWRect(2,110,141,5),url:'Hyperlite_Assembly_files/stroke_6.png'},{rect:new IWRect(-2,110,4,5),url:'Hyperlite_Assembly_files/stroke_7.png'}],new IWSize(145,112))});registry.applyEffects();}
+function hostedOnDM()
+{return false;}
+function onPageLoad()
+{loadMozillaCSS('Hyperlite_Assembly_files/Hyperlite_AssemblyMoz.css')
+detectBrowser();adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');adjustLineHeightIfTooBig('id4');adjustFontSizeIfTooBig('id4');adjustLineHeightIfTooBig('id5');adjustFontSizeIfTooBig('id5');adjustLineHeightIfTooBig('id6');adjustFontSizeIfTooBig('id6');adjustLineHeightIfTooBig('id7');adjustFontSizeIfTooBig('id7');adjustLineHeightIfTooBig('id8');adjustFontSizeIfTooBig('id8');adjustLineHeightIfTooBig('id9');adjustFontSizeIfTooBig('id9');adjustLineHeightIfTooBig('id10');adjustFontSizeIfTooBig('id10');adjustLineHeightIfTooBig('id11');adjustFontSizeIfTooBig('id11');adjustLineHeightIfTooBig('id12');adjustFontSizeIfTooBig('id12');adjustLineHeightIfTooBig('id13');adjustFontSizeIfTooBig('id13');adjustLineHeightIfTooBig('id14');adjustFontSizeIfTooBig('id14');adjustLineHeightIfTooBig('id15');adjustFontSizeIfTooBig('id15');adjustLineHeightIfTooBig('id16');adjustFontSizeIfTooBig('id16');adjustLineHeightIfTooBig('id17');adjustFontSizeIfTooBig('id17');Widget.onload();fixAllIEPNGs('Media/transparent.gif');IMpreload('Hyperlite_Assembly_files','shapeimage_10','0');applyEffects()}
+function onPageUnload()
+{Widget.onunload();}

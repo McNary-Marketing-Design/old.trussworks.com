@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:10 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>go big! 2 new 20 x 20 kits!</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>We know you have customers that sell clothing... and other customers that need presentation areas.. We have the 20 x 20s for them!&#xD;&#xD;Check out these 2 new kits, the Eureka and the Chinatown!&#xD;&#xD;The Eureka is a 20 x 20 clothing manufacturer's dream. 4 independent rep stations with a central graphic and 8' of merchandising area for each. Merchandise can either be faced out as shown or fully stocked on hangrods mounted off of our EZ6 merchandising bars. Outside there are cool corner units to highlight the feature products, excellent graphic opportunities and it is enclosed just enough to create the feeling of exclusivity.&#xD;The Eureka&#xD;Truss, lights, and 4 tubs - $38,316.00&#xD;Shelving&#xA0;as shown - $1,248.00&#xD;Complete fabric graphics package (solids shown are solid color fabric panels) - $14,492.00&#xD;&#xD;Entire exhibit as shown retails for $53,876.00&#xD;(Not including table and chairs)&#xD;&#xD;&#xD;The Chinatown 20 x 20 is made for those that have the need for a presentation area. It's got that and more, featuring a space needle style tower with huge billboard style identity signs and a couple of locking workstations.&#xA0;&#xD;&#xD;Truss and 3 shipping tubs - $21,714.00&#xD;30 lights - $2,100.00&#xD;2 counters - $1,800.00&#xD;Complete lexan or fabric graphics package w/ cases - $10,845.00&#xD;8 curve back packchairs - $1,192.00 *&#xD;1 plasma mount - $350 *&#xD;&#xD;*Entire exhibit as shown retails for $38,001.00&#xD;may require additional packaging for these items. &#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, June 12, 2007&lt;/b&gt;</richText>
+  </textBox>
+</content>

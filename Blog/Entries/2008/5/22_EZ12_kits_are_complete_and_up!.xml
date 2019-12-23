@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:13 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>EZ12 kits are complete and up!</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Hello all,&#xD;&#xD;Trussworks is proud to announce that we have completely revamped our EZ12 collapsible truss &#xA0;kit offerings. We redesigned and updated our existing 8 kits and we added 7 more for a total of 15!&#xD;Check them out at &lt;a href="http://www.trussworks.com/EZ12_Kits.html"&gt;http://www.trussworks.com/EZ12_Kits.html&lt;/a&gt;&#xD;&#xD;Each of these kits is complete with a large high res image, a plan view, an isometric with graphic dimensions, and a color coded exploded view for assembly.&#xD;&#xD;While all of the kits are priced out in retail, 3 of the kits are priced out in 3 different heights. We are very excited about these kits and hope that all this info helps make your job easier!&#xD;&#xD;Thanks for looking!&#xD;&#xD;Roy</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, May 22, 2008&lt;/b&gt;</richText>
+  </textBox>
+</content>

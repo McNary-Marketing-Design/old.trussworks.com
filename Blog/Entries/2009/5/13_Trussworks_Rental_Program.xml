@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:18 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Trussworks Rental Program</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Dear Distributors,&#xD;&#xD;If your business is like ours, your sales are down. However, our rental business is up by about 25%! Rentals are easy sales in a down economy when everyone is a bit uneasy. They are also great for repeat revenue. Unlike a sale, a rental is a low-maintenance repeat sale every time the customer does a show! We have clients that rent from us 4 or 5 times a year. We know your clients are asking about rental options and we'd love to be your first call.&#xD;&#xD;While some of you know about and use our rental program, many of you are unfamiliar with it and have not enjoyed the benefits of reselling Trussworks full service turnkey rentals. Our rental division is named Xibits. Through Xibits we provide rental EZ6 and EZ12 turnkey tradeshow displays installed at the showsite for a set price. As a reseller in the tradeshow industry, now is a great time to have a solid rental option and we believe we have the best program available. Our all-inclusive prices are all right there on the website, &lt;a href="http://www.xibit.com/"&gt;www.xibit.com&lt;/a&gt;. &#xA0;We make it easy for you and your customer. Dealer discounts apply with some slight variation.&#xD;So.. you really can't go wrong by having our turnkey rentals in your sales and marketing arsenal.&#xD;&#xD;The turnkey price includes:&#xD;Exhibit Hardware&#xD;Delivery&#xD;Setup&#xD;Dismantling&#xD;Pickup&#xD;&#xD;We also offer with the exhibit:&#xD;various pre-priced graphic packages - as many as 3 options per kit&#xD;LCD and plasma rentals&#xD;various shelving and other merchandising hardware&#xD;carpet and pad&#xD;furniture&#xD;&#xD;The cities we operate in at these prices:&#xD;Las Vegas&#xD;San Francisco&#xD;Los Angeles&#xD;Orlando&#xD;Chicago&#xD;San Jose&#xD;Long Beach&#xD;Anaheim&#xD;Santa Clara&#xD;Other cities are available with "out of venue" fees.&#xD;&#xD;Check it out at &lt;a href="http://www.xibit.com/"&gt;www.xibit.com&lt;/a&gt; You'll be glad you did.&#xD;&#xD;As always, if you have any questions or need any help, please don't hesitate to call!&#xD;&#xD;Thanks and happy selling!&#xD;&#xD;Roy @ Trussworks</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, May 13, 2009&lt;/b&gt;</richText>
+  </textBox>
+</content>

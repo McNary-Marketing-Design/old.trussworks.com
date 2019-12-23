@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:21 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>MOD '09</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>For those of you who have never attended the MOD show, Robbie&#x2019;s Extravanganza really is a can&#x2019;t miss event. This was our first year but it seemed Abex outdid themselves. First the cool, really cool, I mean ice cold ice sculpture tequila bar across from our booth. But that was only part of it, they entertained us with an awards ceremony that seemed to be half American Idol, half the Oscars, Leeza Gibbons raised a bunch of money for her cause and then they fed us some gourmet food. Abex also introduced their new Solar System displays. All of this was bookended by a mini tradeshow. We used one of our new Irvine kits there and it was a hit! I really enjoyed the mini-show as it was dealers only so I got to meet a few new dealers and chat with some old friends..&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, March 25, 2009&lt;/b&gt;</richText>
+  </textBox>
+</content>

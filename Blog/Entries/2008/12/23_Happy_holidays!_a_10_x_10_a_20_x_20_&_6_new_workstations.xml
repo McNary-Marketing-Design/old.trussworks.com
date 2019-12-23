@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:15 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Happy holidays! a 10 x 10 a 20 x 20  &amp; 6 new workstations</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Hi everyone,&#xD;&#xD;I know many of you are off this week but the busy little elves at Trussworks are hard at it. &#xA0;The Entasi-shaped Hillcrest generated so much interest we created a 10 x 10 and 20 x 20 to shrink to or grow into. This concept also spawned an idea for a whole line of beautiful workstations. Attached please find the workstation flier, the Coronado 20 x 20 and the Irvine 10 x 10. The workstations are all on one sheet with pricing.&#xD;&#xD;The Coronado is another value priced 20 x 20, the hardware including the tower, the oval designer counter, 2 Davis workstations, 8 of our new telescopic lights and cases retails for $15,174. Graphics assuming $22 / sq. ft. would retail for $5,544.00.&#xD;&#xD;The Irvine is basically the center 10' of the Hillcrest. It makes for a completely unique 10' display. While far from our least expensive 10 x 10, we feel it is still a great value retailing for $5,590 including lights and 3 cases. Graphics at $22 / sq. ft. would retail for $1,716.00. The details for this one are already on our site. &lt;a href="http://www.trussworks.com/EZ6_Irvine.html"&gt;http://www.trussworks.com/EZ6_Irvine.html&lt;/a&gt;&#xD;&#xD;We hope everyone has a great holiday and wish you a prosperous 2009.&#xD;&#xD;Sincerely,&#xD;Roy and the staff at Trussworks&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, December 23, 2008&lt;/b&gt;</richText>
+  </textBox>
+</content>

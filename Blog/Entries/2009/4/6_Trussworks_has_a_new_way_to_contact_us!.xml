@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:18 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Trussworks has a new way to contact us!</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Hi everyone,&#xD;&#xD;On occasion, everyone has a quick question that just doesn't seem worth starting an email for or picking up the phone. To help speed up the process of getting quick answers, we have added a chat link on our site. It is on our homepage and our main product pages so if you're on our site and have a quick question, just look for the little red floating head and feel free to "Click to Chat" and we'll help you out in a jiffy!&#xD;&#xD;Thanks and we hope to chat with you soon!&#xD;&#xD;Roy&#xD;Trussworks</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, April 6, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="6_Trussworks_has_a_new_way_to_contact_us%21_files/shapeimage_2.png" left="0px" top="0px" width="325px" height="189px"/>
+</content>

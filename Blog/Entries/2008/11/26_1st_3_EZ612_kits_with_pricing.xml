@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:15 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>1st 3 EZ612 kits with pricing</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#xD;Happy Thanksgiving to all of you.&#xD;&#xD;As promised here are the first 3 kits for EZ612. We believe this system's appearance, strength in creating long spans and excellent price-point will create a new opportunity for all of us. Simply put, this is a new breed. It takes advantage of the EZ6 platform with all the accessories we've developed for it. But it adds a structural element previously missing. The beams of the EZ612 are very strong. We actually hung a 675# distributed load on our prototype 20' section with no obvious deflection. In addition, it has a rectangular profile and 2 different style chisel point ends caps giving it an unusual architectural feel. From a pricing perspective, it is slightly more than EZ6 but we need less of it to create a great display.&#xD;&#xD;Anyway, all that being said, here is the pricing on the first 3 kits.&#xD;&#xD;The Palisades (Hooper &amp; McKnight)&#xD;Truss with 10 lights and 2 tubs - $14,646.00&#xD;Graphics based on $22/ft. - $4,500.00&#xD;Accessories as shown including 2 oval counters, 4 work stations, 4 LCD mounts, 1 plasma mount and 1 more case- $7,316&#xD;Table, 4 chairs and 2 cases - $1,536&#xD;Total display as shown retails for $27,998.00&#xD;&#xD;The Covina ( A.A.R.K. Services)&#xD;Truss with 10 lights and 2 tubs - $10,906.00&#xD;Graphics based on $22/ft. - $4,500.00&#xD;Accessories as shown including 2 rect. counters, 4 work stations, 4 LCD mounts, 2 plasma mounts and 1 more case- $5,958&#xD;Table, 4 chairs and 2 cases - $1,536&#xD;Total display as shown retails for $22,900.00&#xD;&#xD;The Ventura (Albian Group)&#xD;Truss with 8 lights and 3 tubs - $16,142.00&#xD;Graphics based on $22/ft. - $5,624.00&#xD;Accessories as shown including 2 locking counters and 1 plasma mount - 2,150.00&#xD;Total display as shown retails for $23,916.00&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, November 26, 2008&lt;/b&gt;</richText>
+  </textBox>
+</content>

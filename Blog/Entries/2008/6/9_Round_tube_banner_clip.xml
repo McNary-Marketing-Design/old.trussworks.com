@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:13 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Round tube banner clip</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Happy June!&#xD;&#xD;Well, ok, it's June and things are a little slow in our industry but it gives us time to create and prepare for the next busy season. Trussworks has already been taking full advantage of the slow season by staying hard at work (except Friday afternoons). As you all know if you read my emails, we have completely revamped our EZ12 kits and added a few new kits to EZ6.&#xD;&#xD;Something we have long been trying to design is a clean way to install graphics and fabric wall panels onto our traditional truss systems. That day has come! We are excited to announce our new round tube banner clip for our 3/4" tubes. It works very much like the clip for EZ6 and EZ12 except it's for round tubing. This means no more sticky messy velcro on the tubes, no more cable ties through grommets creating weird pull wrinkles, just nice clean clips hooking onto the sewn-in sintra strips. This also means large fabric murals, 20' Typical use will be using sintra strip on top and pole pocket on the bottom for a tube weight. We can also do sintra strip top and bottom if you wanted truss below it.&#xD;&#xD;Anyway, we're excited about the new clip and the opportunities that it presents. Expect to see the traditional truss kits and offerings completely revamped this summer. In the meantime, if you have any design ideas you'd like us to put together as an offering, please shoot us an email. We are all ears!&#xD;&#xD;Thanks,&#xD;&#xD;Roy</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, June 9, 2008&lt;/b&gt;</richText>
+  </textBox>
+</content>

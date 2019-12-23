@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:17 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Hollywood, 20 x 20, 20 x 30 , 20 x 40 - 1 booth, 3 sizes</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The Hollywood was designed with 2 goals in mind. Make a statement with huge graphics and reconfigure simply using everything! To do this we created 2 similar structures that crisscross each other in a 20 x 20 or 20 x 30 space but sit next to each other in larger spaces. We also decided to show an option letting the truss frame the mega-graphics which saves quite a bit of graphic cost.&#xD;&#xD;Attached find 5 different configurations of the Hollywood. 2 each 20 x 20s, 1 with full graphics, the other with truss framing it. The other 3 are a 20 x 30 and 2 - 20 x 40 configurations. Also consider just using one structure at about half the cost!&#xD;&#xD;Retail for the hardware with 16 lights and 3 tubs - $18,410&#xD;Graphics @ $22 / sq. ft.&#xD;Beam graphics assuming covering both sides of all 4 beams. - $3,572&#xD;Full panel graphics (8 total) &#xA0;- $14,884&#xD;		or&#xD;Framed panel graphics (again 8 total) - $12,244&#xD;&#xD;Accessories shown add up to $5,665 and include 11 chairs, a table, 3 counters, aand an additional beam with a plasma mount. Another tub or two would be required for all this.&#xD;&#xD;Thanks for looking! All the specs for the new kits will be on our site soon!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, December 2, 2008&lt;/b&gt;</richText>
+  </textBox>
+</content>

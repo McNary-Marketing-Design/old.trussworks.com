@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:19 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Helios A/V uses Hyperlite behind the scenes</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Dear Distributors,&#xD;&#xD;I believe you all have heard of our new Hyperlite system by now and I am sure you are tired of this long slow summer. I wanted to share with you all something that has helped keep us busy during the slow season which is not necessarily exhibit related although it demonstrates an alternative use for Hyperlite. Our good friends at Helios Interactive Technologies (&lt;a href="http://www.helios-av.com/"&gt;http://www.helios-av.com/&lt;/a&gt;) were commissioned to create some interactive storefront windows and needed to hang 3 large 200 pound SunCutter plasma screens next to each other and also perfectly align 8 Hi Definition projectors in each venue. The details were finalized a week before the first install in San Francisco.&#xD;&#xD;We had previously worked with them on a few projects and they knew what we could do. Together we designed some specialty hardware including angled truss braces, a winch system to lift and hang the heavy monitors into place and graphic bars were used to keep the spacing perfect for the sensitive projectors. Due to the unique nature of each of the install locations, the final structure designs had to happen in the field and the flexibility of the Hyperlite system allowed them to work around uneven floors, obstacles and a myriad of other surprises to get all of their installs in SF and NY completed and operating within their deadline.&#xA0;&#xD;&#xD;The requirements Helios had and the challenges they faced are very similar to what we deal with on a regular basis in our industry. Tight lead time, big heavy A/V equipment with high sensitivity to positioning and short installation times. Hyperlite helped make the hardware portion of the job easy.&#xA0;&#xD;&#xD;While Hyperlite does make beautiful tradeshow exhibits, &#xA0;(we now have some photos of exhibits in our gallery at &lt;a href="http://www.trussworks.com/Hyperlite_Photos.html)"&gt;http://www.trussworks.com/Hyperlite_Photos.html)&lt;/a&gt;, it can do so much more so keep it in mind the next time you need a very flexible yet strong structure.&#xD;&#xD;Wishing you all a strong fall season!&#xD;&#xD;Roy&#xD;&#xD;Roy Muller&#xD;Trussworks</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, July 10, 2009&lt;/b&gt;</richText>
+  </textBox>
+</content>

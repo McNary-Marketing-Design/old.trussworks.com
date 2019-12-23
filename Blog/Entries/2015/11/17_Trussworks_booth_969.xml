@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20151117" date="2015-11-17 10:11:14 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;My Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Trussworks booth #969</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>At Exhibitor LIVE 2016, we are doing something new, different, and exciting. We have teamed up with SoftSpace, combining our 30&#x2019; x 25&#x2019; spaces to make a 30 x 50 space where we will showcase our complimentary skillsets in building one beautiful exhibit bringing life to the words &#x201C;Let&#x2019;s Build Something Together..&#x201D; It&#x2019;s not only an invitation to you to participate but a demonstration of how it can be done.. We look forward to seeing you in Vegas!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, November 17, 2015&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="17_Trussworks_booth_969_files/shapeimage_2.png" left="0px" top="0px" width="419px" height="102px"/>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:11 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>New EZ6 catalog!</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Hi Everyone,&#xD;&#xD;It's been a good 18 months since we first introduced EZ6 and since then we have added a bunch of new parts and accessories. Using these new items, we have created a number of new kits. All of this is in the new catalog attached. The new kits will be easy to spot.&#xA0;&#xD;&#xD;Check out these new accessories on the parts pages:&#xD;&#xD;Base plate and designer Base.. the designer base adds 4" in height and will allow for straight walls and 2-legged counters.&#xD;&#xD;EZ6 workstation.. has poly-fabric sides and a lexan graphic front. mounts to an upright providing storage, a nice workspace and support for a single upright if used as a standalone fixture.&#xD;&#xD;The Designer Counter has a very hi-tech look and a small shelf behind the graphic. Almost 8 sq. feet of surface allows this to be the primary counter in a small booth.&#xD;&#xD;The third Parts page reminds you that we now offer solid fabric panels as an option to fabric or lexan graphics. We now have 4 ways to create a wall in the framed space.. slatwall, lexan graphics, fabric graphics and solid fabric panels. The solids are a very inexpensive way to deal with spaces behind shelving, monitors, or walls that aren't seen.&#xD;&#xD;We have also added an array of new merchandising accessories..&#xA0;&#xD;&#xD;Straight Aluminum shelves which work with our flat or slant shelf brackets and laminated mdf shelves both curved and straight which work with the flat shelf brackets. Straight shelves are available in 2', 3' and 4' widths. The curved shelves are available for our R2 and R5 45&#xB0; spaces.&#xD;&#xD;Finally, for the clothing guys, we offer a 1/2" x 1-1/2" rectangle merchandising bar which allows for standard store fixturing (waterfalls, faceouts and hangrods) to be put into the spaces.&#xD;&#xD;Not noticeable in the catalog but we have redesigned our plasma mounts so that we no longer run into size issues on the larger LCDs and plasmas. Our mounts were originally designed 6 years ago and it was time to update. The new mounts are more portable and way more flexible.&#xD;&#xD;Hope all this helps! And looking forward to a booming fall season!&#xD;&#xA0;&#xD;Roy Muller&#xD;Trussworks</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, July 23, 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_New_EZ6_catalog%21_files/shapeimage_2.png" left="0px" top="0px" width="395px" height="475px"/>
+</content>

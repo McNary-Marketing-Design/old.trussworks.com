@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:17 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>3 new inlines using the new beam! the Hillcrest, Pasadena and Monrovia</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Happy Friday to you all!&#xD;&#xD;The new 612 beam has created all sorts of new options for us and we are doing our best to illustrate what can be done by creating stuff we couldn't do before. Attached please find the Hillcrest 20' inline. It has sort of an Entasi shape to it but it is so much more than an Entasi display. You will be seeing alot more using this vertically curved element in the near future. The Hillcrest hardware retails for $8,892 including truss, lights and a tub. &#xA0;Graphics assuming $22 / sq. ft. would retail for $3,161. The 2 mounts and the front counter would add another $2,158 making the display as shown retail for $14,211. Pricewise, that puts it right in the&#xA0;middle of our 10 x 20 EZ6 offerings.&#xA0;&#xD;&#xD;The other 2 we have here are the Pasadena and Monrovia. If you have a client that wants truss but just doesn't have much budget, these are a great place to start! They are quite obviously the 10 &#xA0;&amp; 20 foot versions of one design. These are our least expensive EZ6 10' and 20' backwalls to date. Again, the counter and workstations are not included in the price. The Monrovia is the 20' version and the hardware retails for $5,809 including the fabric truss covers for the base truss. The graphics add another $2,635 making the backwall $8,444. The Pasadena 10' display hardware retails for $3,022. Add graphics and you are at $4,202.&#xA0;&#xD;&#xD;The 4 new 20 x 20s are on our site now in the EZ6 section with all the backup info. They say New! next to them..&#xA0;&lt;a href="http://www.trussworks.com/EZ6_20_x_20_Kits.html"&gt;http://www.trussworks.com/EZ6_20_x_20_Kits.html&lt;/a&gt;&#xD;&#xA0;Expect these inlines to be up next week along with 4 new freestanding &#xA0;demo station designs.&#xA0;&#xD;&#xD;Have a great weekend!&#xD;&#xD;Roy&#xD;Trussworks&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, December 12, 2008&lt;/b&gt;</richText>
+  </textBox>
+</content>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:21 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>MOD 10</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>MOD &#x2019;10 was a fantastic evening. It started out with a mini-tradeshow with great hors d'oeuvres and drinks  like last year. We tried something new with Hyperlite and it got a positive response so we will build on that style. &#xD;After the tradeshow, we were treated to a fashion show with models wearing all kinds of outfits which were adorned with exhibit materials such  as LED lighting, Dazian fabrics and anodized aluminum pieces. Then the awards ceremony which was done in true Hollywood fashion with 4 judges but the voting was done by the audience. Next was dinner served buffet style and then many went on to enjoy the festivities at the Exhibit City News Party. We took apart our exhibit, carted it out of there and called it a night. It had been a long day..</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, March 25, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

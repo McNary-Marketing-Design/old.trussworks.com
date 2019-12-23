@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20130125" date="2013-01-25 12:24:35 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Trussworks Double Deck a hit at Exhibitor &#x2019;12</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>We introduced our new double deck system at Exhibitor in Las Vegas in March. It was an absolute hit. Attendees raved about the clean lines, integrated ceiling and lighting and the ease of installing graphics and other accessories. Our deck system goes beyond just structural. It is beautiful!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, May 26, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="26_Trussworks_Double_Deck_a_hit_at_Exhibitor_12_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

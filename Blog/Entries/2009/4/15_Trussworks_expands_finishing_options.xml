@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:18 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Trussworks expands finishing options </richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Hi Guys and Girls,&#xD;&#xD;Well, we have gotten away with offering only 6 standard powder coat colors for a long, long time. We have decided it's time to step up to the plate and stock a few more colors. But not just a few more.. we have DOUBLED our standard colors. From 6 to 12, all without upcharges or extended lead times. Many of our new colors are semi-metallic for that high-tech look and feel.&#xD;&#xD;Since we were expanding powder coat colors and we have a few laminate products on the drawing board, we figured we may as well step up there as well. So.. once again, we DOUBLED our standard laminate offerings, stocking 8 instead of 4 Wilsonart laminates. We also have a Nevamar board and although the laminates cost more, we just couldn't resist offering some of their awesome finishes so, we have 6. It's a 10% upcharge on the item, but we think it's so worth it.&#xD;&#xD;Anyway, check out all of our finishes at &lt;a href="http://www.trussworks.com/Color_options.html"&gt;http://www.trussworks.com/Color_options.html&lt;/a&gt; We hope you like them as much as we do.&#xD;&#xD;Thanks and Happy Wednesday!&#xD;&#xD;Roy&#xD;&#xD;PS.. Watch for our new laminate products to show up in the coming weeks. We think you'll be very excited.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, April 15, 2009&lt;/b&gt;</richText>
+  </textBox>
+</content>

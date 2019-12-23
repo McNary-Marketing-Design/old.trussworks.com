@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:22 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>presenting the Astro workstation </richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Dear Distributors,&#xD;&#xD;I hope you all had a solid spring season and are feeling optimistic about the future..&#xD;&#xD;Speaking of futuristic, (did I really just make that leap?) we were really infatuated with our MOD booth this year and very much felt the need to follow through on the concept we used to create it. Threading the Hyperlite verticals through a serpentine ladder truss has allowed us create a unique look with a recessed area on the front that is perfect for a monitor and keyboard shelf. The lower rear recessed area allows for a contoured CPU housing which nicely blends into the curvaceous design of the workstation. Graphics may be installed on &#xA0;just the front as shown in the rendering or on the front and back for use in island exhibits where it will be seen from all angles.&#xD;&#xD;The Astro without graphics retails for $2,415 including a case. 2 units will fit in one case.&#xD;&#xD;When used with front graphics and header only, graphics should retail for about $316. To apply graphics to the back as well, you would add $272 to that making the whole unit retail for $3,003.&#xD;&#xD;As designed, the max monitor physical width is 23" but this dimension can easily be adjusted for minimal cost when ordering.&#xD;&#xD;Please give us your feedback on our new design!&#xD;&#xD;Thanks and happy selling!&#xD;&#xD;Roy</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, May 5, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_presenting_the_Astro_workstation_files/shapeimage_2.png" left="0px" top="0px" width="406px" height="442px"/>
+</content>

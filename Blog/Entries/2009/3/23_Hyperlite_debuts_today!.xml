@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:16 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Hyperlite debuts today!</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Hi Everyone,&#xD;&#xD;Exhibitor Show '09 starts this morning and Trussworks is debuting our newest product, Hyperlite! It is a 5-way 3" round extrusion with flat EZ6 horizontals. Just like EZ6, it assembles fast and easy with wingnuts. We have put together a dozen kits and got the product up on our website. Check it out at &lt;a href="http://www.trussworks.com/Trussworks_Home_Page.html"&gt;http://www.trussworks.com/Trussworks_Home_Page.html&lt;/a&gt;. Attached you'll find a couple of renderings. One is our gorgeous display which features the 612 beams and has a 10' wide Hyperlite closet in the back. The other is a Hyperlite kit design. Make sure you check out the whole line at &lt;a href="http://www.trussworks.com/Trussworks_Home_Page.html"&gt;http://www.trussworks.com/Trussworks_Home_Page.html&lt;/a&gt;.&#xD;&#xD;Thank you and I hope to see you at booth 575!&#xD;&#xD;Roy&#xD;Trussworks</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, March 23, 2009&lt;/b&gt;</richText>
+  </textBox>
+</content>

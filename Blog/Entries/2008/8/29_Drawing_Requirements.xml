@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20111126" date="2011-11-26 13:03:14 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Minimum Drawing Requirements</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Dear Distributors,&#xD;&#xD;As we plunge headfirst into another busy season, we are working on making sure we have the design resources necessary to support everyone in a reasonable fashion. As you know, we have one full-time designer on staff as well as 2 highly skilled customer service reps that create designs as well. While we enjoy creating exciting designs for you and your customers, we also must make sure that our valuable time is being utilized in an efficient manner. To that end, we have put together some criteria that must be met prior to us starting a drawing. In the end we find that if these questions are answered ahead of time, the initial designs will be much closer to the client's needs resulting in a higher closure rate and plenty of time to produce the job perfectly the first time around.&#xD;&#xD;With all that being said, please use the list below as the minimum information you should get from your potential client prior to asking us to spend a few hours of design time on your project.&#xD;&#xD;Must haves.&#xD;&#xD;1. Budget&#xD;2. Show location ( particularly important for rentals)&#xD;3. Show date&#xD;4. Design Criteria including at least the following:&#xD;	Booth Size&#xD;	At least a reference to something seen in 1 kit that the customer likes or a rough sketch - very important!&#xD;	Space flow (enclosed or open and airy?)&#xD;	Qty. of Workstations if any&#xD;	A/V Mounting Requirements if any&#xD;	Merchandising needs&#xD;	Wall panels - slatwall, solid fabric, velcro fabric, fabric graphic or lexan graphic?&#xD;	Counter space needs&#xD;	Storage Requirements&#xD;	Meeting Area Requirements&#xD;	Signage Requirements (particularly relating to islands)&#xD;	Colors - if requesting a rendering.&#xD;&#xD;It would be nice to know.&#xD;	&#xD;1. How many companies are you competing with on the project and who.&#xD;2. What systems you are competing with.&#xD;3. Size and spec's of any monitors being used&#xD;4. Description of product to include packaging and qty to be shown&#xD;&#xD;&#xD;We are looking forward to a very productive fall season with even more kits and concepts to choose from. If you have any ideas you would like us to put together, please share them and we will try to accommodate you.&#xD;&#xD;Thank you for your business. It really does mean the world to us,&#xD;&#xD;Roy</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, August 29, 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="29_Drawing_Requirements_files/shapeimage_2.png" left="0px" top="0px" width="492px" height="369px"/>
+</content>

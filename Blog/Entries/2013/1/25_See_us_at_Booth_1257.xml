@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="9D03D445-7FEC-4DBE-86B0-788FB2F70D22">
+  <lastEdited clientType="local-build-20130125" date="2013-01-25 12:24:36 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trussworks Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>See us at Booth #1257</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Another Exhibitor is fast approaching. &lt;a href="https://www.compusystems.com/servlet/ar?evt_uid=136&amp;company_code=4237"&gt;Click here to be our guest to the exhibit hall and reception at Exhibitor 2013. &lt;/a&gt;Exhibitor is the place to see all of the industry&#x2019;s best and learn about what&#x2019;s new. If you haven&#x2019;t been lately, come see us in Vegas!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, January 25, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_See_us_at_Booth_1257_files/shapeimage_2.png" left="0px" top="0px" width="366px" height="120px"/>
+</content>
